@@ -1,18 +1,16 @@
-favicon: https://d33wubrfki0l68.cloudfront.net/6657ba50e702d84afb32fe846bed54fba1a77add/827ae/logo.svg
-avatar: https://d33wubrfki0l68.cloudfront.net/6657ba50e702d84afb32fe846bed54fba1a77add/827ae/logo.svg
+favicon: https://cdn.jsdelivr.net/npm/twemoji@11.3.0/2/svg/1f435.svg
+avatar: https://mstdn.ivtune.net/system/accounts/avatars/110/661/320/950/107/930/original/d63c1178c950220f.png
 katex: false
 force_https: true
-check_update: true
+check_update: false
 
 menus:
-  - name: 首页
+  - name: HOME
     link: /
-  - name: 归档
+  - name: Archives
     link: /archives/
-  - name: 标签
+  - name: Tags
     link: /tags/
-  - name: 友链
-    link: /friends/
 post:
   feature: true
 disqus:
