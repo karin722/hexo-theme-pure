@@ -9,8 +9,6 @@ menus:
     link: /
   - name: Archives
     link: /archives/
-  - name: Tags
-    link: /tags/
 post:
   feature: true
 disqus:
@@ -35,8 +33,7 @@ web_analytics:
   enable: false
   google: UA-12345678-1
   baidu: 12345678
-footer: |
-  Footer HTML
+footer: 
 friends:
   - name: 宝硕博客
     link: https://blog.baoshuo.ren/
